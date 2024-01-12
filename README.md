@@ -23,7 +23,7 @@ UPDATE
 1. L3 Cache Stats:- llcstat.py Everything done
 2. paging Operations:-
 	2.1 page faults:- pagefaults.py Done
-	2.2 Re-Faulted Pges:- pagerefaults Not Working
+	2.2 Re-Faulted Pges:- pagerefaults.py Not Working
 	2.3 Swap in/out stats:- swapin.py Done
 3. Swap I/O overhead:- Swapiooverhead.py Done
 4. User Space Memory alloc and Dealloc:- memleak.py  Done
